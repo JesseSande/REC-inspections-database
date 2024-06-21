@@ -1,0 +1,82 @@
+{
+    "inspections": [
+        {
+            "id": "1",
+            "location": "Julianastraat 12, 1234AB, Groningen",
+            "date": "2024-06-16T14:00:00+02:00",
+            "type": "schade",
+            "details": {
+                "newDamage": true,
+                "damageType": "geweld",
+                "immediateActionRequired": true,
+                "description": "gebroken ruit",
+                "photos": [
+                    "photo1.jpg",
+                    "photo2.jpg"
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "location": "Kerkstraat 4a, 2345BC, Haarlem",
+            "date": "2024-06-17T10:30:00+02:00",
+            "type": "onderhoud",
+            "details": {
+                "maintenanceType": "schilderwerk",
+                "immediateActionRequired": false,
+                "costEstimate": "500-1500",
+                "photos": [
+                    "photo3.jpg"
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "location": "Parallelweg 3, 3456CD, Utrecht",
+            "date": "2024-06-18T09:45:00+02:00",
+            "type": "installatie",
+            "details": {
+                "installationType": "elektra",
+                "reportedMalfunction": "None",
+                "testProcedure": "elecktra_test_procedure.pdf",
+                "approved": true,
+                "comments": "",
+                "photos": []
+            }
+        },
+        {
+            "id": "4",
+            "location": "Molenweg 89, 4567DE, Middelburg",
+            "date": "2024-06-19T15:15:00+02:00",
+            "type": "modificatie",
+            "details": {
+                "existingDocumentation": "modificatie1.pdf",
+                "locationFound": "keuken",
+                "performedBy": "huurder",
+                "description": "folie op ramen geplakt",
+                "actionRequired": "laten verwijderen",
+                "comments": "",
+                "photos": [
+                    "photo4.jpg",
+                    "photo5.jpg"
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "location": "Dorpsstraat 5, 5678EF, Waddinxveen",
+            "date": "2024-06-20T11:45:00+02:00",
+            "type": "damage",
+            "details": {
+                "newDamage": false,
+                "damageType": "slijtage",
+                "immediateActionRequired": true,
+                "description": "daklekkage",
+                "photos": [
+                    "photo6.jpg"
+                ]
+            }
+        }
+    ]
+}
+  
