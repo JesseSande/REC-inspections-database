@@ -6,9 +6,9 @@
             "date": "2024-06-16T14:00:00+02:00",
             "type": "schade",
             "details": {
-                "newDamage": "ja",
+                "newDamage": true,
                 "damageType": "geweld",
-                "immediateActionRequired": "ja",
+                "immediateActionRequired": true,
                 "description": "gebroken ruit",
                 "photos": [
                     "photo1.jpg",
@@ -23,7 +23,7 @@
             "type": "onderhoud",
             "details": {
                 "maintenanceType": "schilderwerk",
-                "immediateActionRequired": "nee",
+                "immediateActionRequired": false,
                 "costEstimate": "500-1500",
                 "photos": [
                     "photo3.jpg"
@@ -68,9 +68,9 @@
             "date": "2024-06-20T11:45:00+02:00",
             "type": "schade",
             "details": {
-                "newDamage": "nee",
+                "newDamage": false,
                 "damageType": "slijtage",
-                "immediateActionRequired": "ja",
+                "immediateActionRequired": true,
                 "description": "daklekkage",
                 "photos": [
                     "photo6.jpg"
