@@ -26,13 +26,7 @@
       "location": "Kennedylaan 198",
       "date": "2024-07-05T09:00:00+02:00",
       "type": "modificatie",
-      "details": {
-        "documentation": {
-          "id": "existingModifications",
-          "title": "Bestaande Modificaties",
-          "content": "<p>Hier staat de documentatie over de bestaande modificaties.</p>"
-        }
-      }
+      "details": {}
     },
     {
       "id": 5,
