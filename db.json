@@ -1,41 +1,58 @@
 {
-    "assignedInspections": [
+  "assignedInspections": [
+    {
+      "id": 1,
+      "location": "Strepenstraat 1",
+      "date": "2024-07-02T14:00:00+02:00",
+      "type": "schade",
+      "details": {}
+    },
+    {
+      "id": 2,
+      "location": "Vondelparklaan 3b",
+      "date": "2024-07-03T10:30:00+02:00",
+      "type": "onderhoud",
+      "details": {}
+    },
+    {
+      "id": 3,
+      "location": "Mariaweg 7",
+      "date": "2024-07-04T15:15:00+02:00",
+      "type": "installatie",
+      "details": {}
+    },
+    {
+      "id": 4,
+      "location": "Kennedylaan 198",
+      "date": "2024-07-05T09:00:00+02:00",
+      "type": "modificatie",
+      "details": {}
+    },
+    {
+      "id": 5,
+      "location": "Beukenstraat 65",
+      "date": "2024-07-05T21:45:00+02:00",
+      "type": "onderhoud",
+      "details": {}
+    }
+  ],
+  "completedInspections": [],
+  "knowledgebase": [
       {
-        "id": 1,
-        "location": "Strepenstraat 1",
-        "date": "2024-07-02T14:00:00+02:00",
-        "type": "schade",
-        "details": {}
+        "id": "testProcedure",
+        "title": "Overzicht van Testprocedures",
+        "content": "<h2>Overzicht van Testprocedures</h2><p>In dit artikel vind je alle informatie die je moet weten rondom de testprocedures bij inspecties. Inhoud wordt later verder ingevuld.</p>"
       },
       {
-        "id": 2,
-        "location": "Vondelparklaan 3b",
-        "date": "2024-07-03T10:30:00+02:00",
-        "type": "onderhoud",
-        "details": {}
+        "id": "standardsSheet",
+        "title": "Normblad voor Inspecties",
+        "content": "<h2>Normblad voor Inspecties</h2><p>In dit artikel vind je alle informatie die je moet weten rondom het normblad voor inspecties. Inhoud wordt later verder ingevuld.</p>"
       },
       {
-        "id": 3,
-        "location": "Mariaweg 7",
-        "date": "2024-07-04T15:15:00+02:00",
-        "type": "installatie",
-        "details": {}
-      },
-      {
-        "id": 4,
-        "location": "Kennedylaan 198",
-        "date": "2024-07-05T09:00:00+02:00",
-        "type": "modificatie",
-        "details": {}
-      },
-      {
-        "id": 5,
-        "location": "Beukenstraat 65",
-        "date": "2024-07-05T21:45:00+02:00",
-        "type": "onderhoud",
-        "details": {}
+        "id": "lawsRegulations",
+        "title": "Wet- en Regelgeving",
+        "content": "<h2>Wet- en Regelgeving</h2><p>In dit artikel vind je alle informatie met betrekking tot wet- en regelgeving in de bouw. Inhoud wordt later verder ingevuld.</p>"
       }
-    ],
-    "completedInspections": []
+  ]
 }
   
