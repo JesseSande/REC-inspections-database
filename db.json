@@ -40,18 +40,18 @@
   "knowledgebaseItems": [
       {
         "id": "testProcedure",
-        "title": "Kennisbase item",
-        "content": "<h2>Overzicht van Testprocedures</h2><p>In dit artikel vind je alle informatie die je moet weten rondom de testprocedures bij inspecties. Inhoud wordt later verder ingevuld.</p>"
+        "title": "Overzicht van Testprocedures",
+        "content": "<p>In dit artikel vind je alle informatie die je moet weten rondom de testprocedures bij inspecties. Inhoud wordt later verder ingevuld.</p>"
       },
       {
         "id": "standardsSheet",
-        "title": "Kennisbase item",
-        "content": "<h2>Normblad voor Inspecties</h2><p>In dit artikel vind je alle informatie die je moet weten rondom het normblad voor inspecties. Inhoud wordt later verder ingevuld.</p>"
+        "title": "Normblad voor Inspecties",
+        "content": "<p>In dit artikel vind je alle informatie die je moet weten rondom het normblad voor inspecties. Inhoud wordt later verder ingevuld.</p>"
       },
       {
         "id": "lawsRegulations",
-        "title": "Kennisbase item",
-        "content": "<h2>Wet- en Regelgeving</h2><p>In dit artikel vind je alle informatie met betrekking tot wet- en regelgeving in de bouw. Inhoud wordt later verder ingevuld.</p>"
+        "title": "Wet- en Regelgeving",
+        "content": "<p>In dit artikel vind je alle informatie met betrekking tot wet- en regelgeving in de bouw. Inhoud wordt later verder ingevuld.</p>"
       }
   ]
 }
