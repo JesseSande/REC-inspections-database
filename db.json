@@ -28,8 +28,9 @@
       "type": "modificatie",
       "details": {
         "documentation": {
-          "title": "Bestaande situatie en gedocumenteerde modificaties",
-          "content": "<p>Hier vind je de gedocumenteerde modificaties van de huidige situatie. Inhoud wordt later verder ingevuld.</p>"
+          "id": "existingModifications",
+          "title": "Bestaande Modificaties",
+          "content": "<p>Hier staat de documentatie over de bestaande modificaties.</p>"
         }
       }
     },
