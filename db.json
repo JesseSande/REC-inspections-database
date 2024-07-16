@@ -41,7 +41,7 @@
       {
         "id": "testProcedure",
         "title": "Overzicht van Testprocedures",
-        "content": "<p>In dit artikel vind je alle informatie die je moet weten rondom de testprocedures bij inspecties. Inhoud wordt later verder ingevuld.</p>"
+        "content": "<p>In dit artikel vind je alle informatie die je moet weten rondom de testprocedures bij inspecties. Inhoud wordt later verder ingevuld.<br><p>Voorbeeld testprocedure:</p><<a href=\"\\/pdf\\/Testprocedure_1_Inspectie_installatie_koeling.pdf\">Link naar testprocedure</a>></a>"
       },
       {
         "id": "standardsSheet",
